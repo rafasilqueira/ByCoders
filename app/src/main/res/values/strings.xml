@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ByCoders</string>
+    <string name="fragment_login_email">E-mail</string>
+    <string name="fragment_login_password">Senha</string>
+    <string name="fragment_login_invalid_email">E-mail inválido</string>
+    <string name="activity_main_login">Login</string>
+</resources>
